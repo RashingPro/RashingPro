@@ -9,7 +9,7 @@
     <h1>
         Currently learning:
     </h1>
-        <img src="https://skillicons.dev/icons?i=html,css,js,nestjs,react&theme=dark&perline=5">
+        <img src="https://skillicons.dev/icons?i=html,css,js,nestjs,react,nextjs&theme=dark">
     <h1>
         IDEs and programs:
     </h1>
