@@ -5,20 +5,17 @@
     <br>
     <h1>
         Languages:
-    </h1><br>
+    </h1>
     <img src="https://skillicons.dev/icons?i=cs,java,js,lua,py,css,html,md&theme=dark">
-    <br>
     <h1>
         IDEs and programs:
-    </h1><br>
+    </h1>
     <img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,ps,pr,androidstudio,robloxstudio,unity,visualstudio,vscode&theme=dark&perline=5">
-    <br>
     <h1>
         Other:
-    </h1><br>
+    </h1>
     <img src="https://skillicons.dev/icons?i=arduino,discord,bots,figma,firebase,gcp,git&theme=dark">
     <img src="https://skillicons.dev/icons?i=github,nestjs,qt,sqlite,stackoverflow,sublime&theme=dark">
-    <br>
     <h1>
         OS:
     </h1>
