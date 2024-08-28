@@ -3,7 +3,7 @@
         <img src="https://wakatime.com/badge/user/b1c25f74-0bce-4dc9-bd10-50b9bb1f9d05.svg" width=50% />
     </a>
     <h1>
-        Languages:
+        Languages and Frameworks:
     </h1>
         <img src="https://skillicons.dev/icons?i=cs,java,lua,py,html,css,md&theme=dark">
     <h1>
