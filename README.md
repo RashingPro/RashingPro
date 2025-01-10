@@ -13,6 +13,9 @@
         <a href="https://github.com/RustCobaltFields/CobaltFieldsWeb/">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=RustCobaltFields&repo=CobaltFieldsWeb&theme=dark" alt="UltimateTypeWriter" />
         </a>
+        <a href="https://github.com/PAYDAY2Community/payday2_community">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAYDAY2Community&repo=payday2_community&theme=dark" alt="UltimateTypeWriter" />
+        </a>
     </div>
     <h1>
         Currently learning:
