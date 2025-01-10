@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./style.css">
+<link rel="stylesheet" href="./style.css" />
 <div align="center" style="width=100%">
     <a href="https://wakatime.com/@b1c25f74-0bce-4dc9-bd10-50b9bb1f9d05">
     <img src="https://wakatime.com/badge/user/b1c25f74-0bce-4dc9-bd10-50b9bb1f9d05.svg" width=50% />
@@ -20,5 +20,5 @@
     <h1>
         Currently learning:
     </h1>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
 </div>
