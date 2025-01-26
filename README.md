@@ -7,9 +7,6 @@
         Currently working:
     </h1>
     <div>
-        <a href="https://github.com/RashingPro/UltimateTypeWriter/">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=UltimateTypeWriter&theme=dark" alt="UltimateTypeWriter" />
-        </a>
         <a href="https://github.com/RustCobaltFields/CobaltFieldsWeb/">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=RustCobaltFields&repo=CobaltFieldsWeb&theme=dark" alt="UltimateTypeWriter" />
         </a>
