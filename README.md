@@ -7,11 +7,14 @@
         Currently working:
     </h1>
     <div>
+        <a href="https://github.com/RashingPro/UltimateDiscordOAuth/">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=UltimateDiscordOAuth&theme=dark" alt="UltimateDiscordOAuth" />
+        </a>
         <a href="https://github.com/RustCobaltFields/CobaltFieldsWeb/">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RustCobaltFields&repo=CobaltFieldsWeb&theme=dark" alt="UltimateTypeWriter" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RustCobaltFields&repo=CobaltFieldsWeb&theme=dark" alt="CobaltFieldsWeb" />
         </a>
         <a href="https://github.com/PAYDAY2Community/payday2_community">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAYDAY2Community&repo=payday2_community&theme=dark" alt="UltimateTypeWriter" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAYDAY2Community&repo=payday2_community&theme=dark" alt="payday2_community" />
         </a>
     </div>
     <h1>
