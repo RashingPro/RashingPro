@@ -10,7 +10,7 @@
         <a href="https://github.com/RashingPro/UltimateDiscordOAuth/">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=UltimateDiscordOAuth&theme=dark" alt="UltimateDiscordOAuth" />
         </a>
-        <a href="https://github.com/PepelandModpackCustomizer/pmc_web.git">
+        <a href="https://github.com/PepelandModpackCustomizer/pmc_web">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=PepelandModpackCustomizer&repo=pmc_web&theme=dark" alt="PepelandModpackCustomizer" />
         </a>
         <a href="https://github.com/RustCobaltFields/CobaltFieldsWeb/">
