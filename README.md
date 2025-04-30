@@ -7,9 +7,9 @@
         Currently working:
     </h1>
     <div>
-        <a href="https://github.com/RashingPro/UltimateDiscordOAuth/">
+<!--         <a href="https://github.com/RashingPro/UltimateDiscordOAuth/">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=UltimateDiscordOAuth&theme=dark" alt="UltimateDiscordOAuth" />
-        </a>
+        </a> -->
         <a href="https://github.com/PepelandModpackCustomizer/pmc_web">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=PepelandModpackCustomizer&repo=pmc_web&theme=dark" alt="PepelandModpackCustomizer" />
         </a>
