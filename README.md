@@ -7,18 +7,21 @@
         Currently working:
     </h1>
     <div>
-<!--         <a href="https://github.com/RashingPro/UltimateDiscordOAuth/">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=UltimateDiscordOAuth&theme=dark" alt="UltimateDiscordOAuth" />
-        </a> -->
-        <a href="https://github.com/PepelandModpackCustomizer/pmc_web">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=PepelandModpackCustomizer&repo=pmc_web&theme=dark" alt="PepelandModpackCustomizer" />
+        <a href="https://github.com/RashingPro/easy-discord-oauth/">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=easy-discord-oauth&theme=dark" alt="easy-discord-oauth" />
         </a>
+<!--         <a href="https://github.com/PepelandModpackCustomizer/pmc_web">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=PepelandModpackCustomizer&repo=pmc_web&theme=dark" alt="PepelandModpackCustomizer" />
+        </a> -->
         <a href="https://github.com/FlexCodeRashing/flex-code-frontend">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=FlexCodeRashing&repo=flex-code-frontend&theme=dark" alt="flex-code-frontend" />
         </a>
-        <a href="https://github.com/PAYDAY2Community/payday2_community">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAYDAY2Community&repo=payday2_community&theme=dark" alt="payday2_community" />
+        <a href="https://github.com/FlexCodeRashing/flex-code-backend">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=FlexCodeRashing&repo=flex-code-backend&theme=dark" alt="flex-code-backend" />
         </a>
+<!--         <a href="https://github.com/PAYDAY2Community/payday2_community">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAYDAY2Community&repo=payday2_community&theme=dark" alt="payday2_community" />
+        </a> -->
     </div>
     <h1>
         Currently learning:
