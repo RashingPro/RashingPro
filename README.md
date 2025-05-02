@@ -26,5 +26,5 @@
     <h1>
         Currently learning:
     </h1>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nestjs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs&theme=dark" />
 </div>
