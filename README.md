@@ -10,11 +10,11 @@
         <a href="https://github.com/RashingPro/easy-discord-oauth/">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=easy-discord-oauth&theme=dark" alt="easy-discord-oauth" />
         </a>
-        <a href="https://github.com/PepelandModpackCustomizer/pmc_web">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=PepelandModpackCustomizer&repo=pmc_web&theme=dark" alt="PepelandModpackCustomizer web" />
+        <a href="https://github.com/RashingPro/rust-tweaker">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=rust-tweaker&theme=dark" alt="rust-tweaker" />
         </a>
-        <a href="https://github.com/PepelandModpackCustomizer/pmc_api">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=PepelandModpackCustomizer&repo=pmc_api&theme=dark" alt="PepelandModpackCustomizer api" />
+        <a href="https://github.com/RashingPro/ModeratorBot">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=ModeratorBot&theme=dark" alt="ModeratorBot" />
         </a>
     </div>
     <h1>
