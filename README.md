@@ -16,6 +16,9 @@
         <a href="https://github.com/RashingPro/ModeratorBot">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=ModeratorBot&theme=dark" alt="ModeratorBot" />
         </a>
+        <a href="https://github.com/RashingPro/ficsit-remote-monitoring">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=ficsit-remote-monitoring&theme=dark" alt="ficsit-remote-monitoring" />
+        </a>
     </div>
     <h1>
         Currently learning:
