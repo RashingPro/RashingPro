@@ -20,5 +20,5 @@
     <h1>
         Tech stack
     </h1>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,prisma&theme=dark" />
 </div>
