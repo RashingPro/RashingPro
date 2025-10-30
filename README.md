@@ -11,7 +11,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=easy-discord-oauth&theme=dark" alt="easy-discord-oauth" />
         </a>
         <a href="https://github.com/xgram-js/xgram-main">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xgram-js&repo=xgram-main&theme=dark" alt="xgram-main" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xgram-js&repo=xgram-builder&theme=dark" alt="xgram-builder" />
         </a>
         <a href="https://github.com/RashingPro/ficsit-remote-monitoring">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=RashingPro&repo=ficsit-remote-monitoring&theme=dark" alt="ficsit-remote-monitoring" />
