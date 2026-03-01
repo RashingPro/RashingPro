@@ -18,6 +18,7 @@
         </a>
     </div> -->
     <a href="https://rashing.pro/">
+        <img src="https://rashing.pro/api/readme" />
     </a>
     <!-- <h1>
         Tech stack
